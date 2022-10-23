@@ -1,2 +1,8 @@
-# TelemetryViewer_Android
- Monitoring the parameters of remote telemetry devices via a database connection
+# TelemetryViewer
+
+## What is this project about? ##
+
+This app provides
+
+## Why do I need this project? ##
+
