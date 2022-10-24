@@ -30,3 +30,6 @@ Other libraries and technologies used in the project:
 - The Room library for storing downloaded data in the cache
 - The SQLite library for the ability to create tables which structure
 not known at compile time  
+
+## Why is this project on Github? ##
+
