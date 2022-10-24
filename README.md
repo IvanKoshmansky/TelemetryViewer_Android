@@ -2,13 +2,13 @@
 
 ## What is this project about? ##
 
-This project provides the ability to view data from telemetry devices, which measures parameters of the corrosion protection. Devices transmits these parameters to the data collection server, and then this mobile app reads data from the MS SQL database that the server is working with.
+This project provides the ability to view data from telemetry devices, which measure parameters of the corrosion protection. Devices transmits these parameters to the data collection server, and then this mobile app reads data from the MS SQL database that the server is working with.
 
 ## Project features ##
 
 Unlike the most common scheme, when the client works with the server through the HTTP protocol, in this project a different scheme is implemented according to the requirements of the customer. 
 This project uses a direct connection to the MS SQL database via Java JTDS library.
-This library provides access to the MS SQL database (and to others too) through standard SQL language constructs, as well as the ability to execute stored procedures.
+This library provides access to the MS SQL database (and other types too) through standard SQL language constructs, as well as the ability to execute stored procedures.
 The functionality for this solution is located in the `network` package.  
 Loading data is performed by the `serverRequest()` function:  
 ```
@@ -32,4 +32,6 @@ Other libraries and technologies used in the project:
 not known at compile time  
 
 ## Why is this project on Github? ##
+
+A small part of this project is posted on github for demonstration purposes only. Other development teams and potential employers may be interesting how I implemented small subtasks.
 
