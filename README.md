@@ -35,3 +35,5 @@ not known at compile time
 
 A small part of this project is posted on github for demonstration purposes only. Other development teams and potential employers may be interesting how I implemented small subtasks.
 
+## Screenshots ##
+![telemetry-viewer-screens](https://user-images.githubusercontent.com/102755986/197447086-4246623b-fc1d-4242-b342-cdca26458c48.png)
